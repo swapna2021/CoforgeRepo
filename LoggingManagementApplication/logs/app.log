@@ -1,0 +1,6 @@
+2026-03-11 15:54:05 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-11T15:54:05.254837 
+2026-03-11 15:54:06 [http-nio-8080-exec-2] INFO  com.coforge.LoggingFilter - Incoming request -> Method : GET,URI : /LoggingManagementApplication/index.jsp IP :0:0:0:0:0:0:0:1
+2026-03-11 15:54:06 [http-nio-8080-exec-2] INFO  com.coforge.LoggingFilter - Response sent -> URI :/LoggingManagementApplication/index.jsp Time taken : 196 ms
+2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingFilter - Incoming request -> Method : GET,URI : /LoggingManagementApplication/LoggingWithFilter IP :0:0:0:0:0:0:0:1
+2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingWithFilter - doGet called at 2026-03-11T15:54:13.373232 
+2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingFilter - Response sent -> URI :/LoggingManagementApplication/LoggingWithFilter Time taken : 3 ms

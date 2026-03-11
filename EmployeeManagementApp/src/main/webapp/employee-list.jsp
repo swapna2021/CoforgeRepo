@@ -12,19 +12,19 @@
 </head>
 <body>
 	<%
-		//ArrayList<Employee> employeeList=(ArrayList<Employee>)request.getAttribute("empList");
-		LocalDate doj=LocalDate.parse("2025-07-13");
+		ArrayList<Employee> employeeList=(ArrayList<Employee>)request.getAttribute("empList");
+		/* LocalDate doj=LocalDate.parse("2025-07-13");
 		LocalDate dob=LocalDate.parse("2009-06-12");
 		Employee e=new Employee(1,"swapna",5000.0,"swapna@gmail.com","9099090990",doj,dob);
 		ArrayList<Employee> employeeList=new ArrayList<Employee>();
-		employeeList.add(e);
+		employeeList.add(e); */
 	
 	%>
 	<div class="container mt-4">
 		<div class="card shadow">
 			<div class="card-header bg-primary">
 				<h1 class="text-light">Employee List</h1>
-				<a href="employee?action=add" class="btn btn-success">Add Employee</a>
+				<a href="employee?action=new" class="btn btn-success">Add Employee</a>
 				<a href="Home.jsp" class="btn btn-warning">Home</a>
 			</div>
 			<div class="card-body">

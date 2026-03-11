@@ -59,17 +59,19 @@
 					</div>
 					<div class="mb-3">
 						<label class="form-label">Employee DOJ</label>
-						<input type="date" 
+						<input type="text" 
 							class="form-control" 
 							name="doj"  
-							value="<%=editmode?emp.getDoj():""%>" >
+							value="<%=editmode?emp.getDoj():""%>"
+							placeholder="enter date as yyyy-mm-dd" >
 					</div>
 					<div class="mb-3">
 						<label class="form-label">Employee DOB</label>
-						<input type="Date" 
+						<input type="text" 
 							class="form-control" 
 							name="dob"  
-							value="<%=editmode?emp.getEname():""%>" >
+							value="<%=editmode?emp.getEname():""%>"
+							placeholder="enter date as yyyy-mm-dd"  >
 					</div>
 					<button type="submit" class="btn btn-success">
 					
