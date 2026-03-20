@@ -4,3 +4,102 @@
 2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingFilter - Incoming request -> Method : GET,URI : /LoggingManagementApplication/LoggingWithFilter IP :0:0:0:0:0:0:0:1
 2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingWithFilter - doGet called at 2026-03-11T15:54:13.373232 
 2026-03-11 15:54:13 [http-nio-8080-exec-3] INFO  com.coforge.LoggingFilter - Response sent -> URI :/LoggingManagementApplication/LoggingWithFilter Time taken : 3 ms
+2026-03-12 09:36:16 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:36:16.352811
+2026-03-12 09:36:20 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:36:20.019933 
+2026-03-12 09:36:55 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:36:55.113623
+2026-03-12 09:36:59 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:36:59.260696 
+2026-03-12 09:43:39 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:43:39.393463
+2026-03-12 09:43:43 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:43:43.071690 
+2026-03-12 09:43:43 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:43:43.749697
+2026-03-12 09:48:13 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:48:13.124586 
+2026-03-12 09:50:08 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:50:08.378324
+2026-03-12 09:50:12 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:50:12.097428 
+2026-03-12 09:50:12 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:50:12.778236
+2026-03-12 09:51:16 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:51:16.858019 
+2026-03-12 09:52:20 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:52:20.586353
+2026-03-12 09:52:24 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:52:24.246960 
+2026-03-12 09:58:30 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T09:58:30.796794
+2026-03-12 09:58:34 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T09:58:34.455994 
+2026-03-12 10:00:41 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:00:41.286265
+2026-03-12 10:00:45 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:00:45.041191 
+2026-03-12 10:01:36 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:01:36.427128
+2026-03-12 10:01:40 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:01:40.047622 
+2026-03-12 10:05:07 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:05:07.428903
+2026-03-12 10:05:12 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:05:12.327013 
+2026-03-12 10:32:11 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:32:11.250335
+2026-03-12 10:32:15 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:32:15.028777 
+2026-03-12 10:33:18 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:33:18.384311
+2026-03-12 10:33:22 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:33:22.050195 
+2026-03-12 10:34:15 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:34:15.063498
+2026-03-12 10:34:18 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:34:18.773454 
+2026-03-12 10:35:20 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T10:35:20.001028
+2026-03-12 10:35:23 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T10:35:23.780350 
+2026-03-12 11:13:49 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T11:13:49.105405
+2026-03-12 11:13:52 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T11:13:52.605827 
+2026-03-12 11:14:56 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T11:14:56.944
+2026-03-12 11:15:00 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T11:15:00.453280 
+2026-03-12 11:35:28 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T11:35:28.434586
+2026-03-12 11:35:32 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T11:35:32.054380 
+2026-03-12 11:37:06 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T11:37:06.890718
+2026-03-12 11:37:10 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T11:37:10.520507 
+2026-03-12 14:32:35 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-12T14:32:35.366995
+2026-03-12 14:32:39 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-12T14:32:39.098983 
+2026-03-15 11:22:19 [Thread-0] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-15T11:22:19.208966
+2026-03-18 09:51:09 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T09:51:09.867133 
+2026-03-18 09:52:26 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T09:52:26.025326
+2026-03-18 09:52:29 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T09:52:29.684205 
+2026-03-18 09:53:46 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T09:53:46.359078
+2026-03-18 09:53:50 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T09:53:50.167953 
+2026-03-18 10:01:46 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T10:01:46.133103
+2026-03-18 10:01:49 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T10:01:49.754442 
+2026-03-18 10:04:26 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T10:04:26.457107
+2026-03-18 10:04:30 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T10:04:30.070327 
+2026-03-18 10:14:38 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T10:14:38.239881
+2026-03-18 10:14:41 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T10:14:41.850523 
+2026-03-18 10:18:54 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T10:18:54.740031
+2026-03-18 10:18:58 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T10:18:58.719509 
+2026-03-18 10:20:13 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T10:20:13.779608
+2026-03-18 10:20:17 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T10:20:17.353297 
+2026-03-18 11:07:17 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:07:17.137029
+2026-03-18 11:07:20 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:07:20.968917 
+2026-03-18 11:08:17 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:08:17.098686
+2026-03-18 11:08:20 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:08:20.708125 
+2026-03-18 11:15:09 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:15:09.711346
+2026-03-18 11:15:13 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:15:13.342549 
+2026-03-18 11:38:47 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:38:47.340944
+2026-03-18 11:38:50 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:38:50.966070 
+2026-03-18 11:41:38 [Thread-0] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:41:38.218906
+2026-03-18 11:41:52 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:41:52.328959 
+2026-03-18 11:43:31 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:43:31.161111
+2026-03-18 11:43:34 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:43:34.756254 
+2026-03-18 11:45:31 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:45:31.750095
+2026-03-18 11:45:35 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:45:35.588067 
+2026-03-18 11:53:42 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T11:53:42.722145
+2026-03-18 11:53:46 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T11:53:46.352151 
+2026-03-18 14:58:55 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T14:58:55.166953
+2026-03-18 14:58:59 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T14:58:59.066323 
+2026-03-18 15:00:16 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:00:16.695280
+2026-03-18 15:00:20 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:00:20.369172 
+2026-03-18 15:06:58 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:06:58.523228
+2026-03-18 15:07:02 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:07:02.201320 
+2026-03-18 15:09:00 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:09:00.232711
+2026-03-18 15:09:03 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:09:03.897726 
+2026-03-18 15:10:27 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:10:27.333096
+2026-03-18 15:10:31 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:10:31.005911 
+2026-03-18 15:13:29 [Thread-0] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:13:29.387185
+2026-03-18 15:13:39 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:13:39.592651 
+2026-03-18 15:16:55 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:16:55.588429
+2026-03-18 15:16:59 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:16:59.506092 
+2026-03-18 15:20:30 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T15:20:30.401825
+2026-03-18 15:20:34 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T15:20:34.299191 
+2026-03-18 16:01:20 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T16:01:20.283056
+2026-03-18 16:01:24 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T16:01:24.222819 
+2026-03-18 16:05:01 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T16:05:01.976018
+2026-03-18 16:05:05 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T16:05:05.980762 
+2026-03-18 16:09:33 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T16:09:33.040383
+2026-03-18 16:09:36 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T16:09:36.731213 
+2026-03-18 16:15:04 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T16:15:04.964094
+2026-03-18 16:15:08 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T16:15:08.635217 
+2026-03-18 16:27:40 [main] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-18T16:27:40.090596
+2026-03-18 16:27:43 [main] INFO  com.coforge.LoggingFilter - Logging filter starting time :2026-03-18T16:27:43.800515 
+2026-03-20 02:01:53 [Thread-0] INFO  com.coforge.LoggingFilter - LoggingFilter Exit time 2026-03-20T02:01:53.119404
